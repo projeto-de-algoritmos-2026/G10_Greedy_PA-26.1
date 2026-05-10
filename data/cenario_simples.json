@@ -1,0 +1,15 @@
+{
+  "salas": [
+    { "id": "A", "capacidade": 30 },
+    { "id": "B", "capacidade": 50 }
+  ],
+  "professores": [
+    { "id": "P1", "nome": "João", "materias": ["Matemática"] },
+    { "id": "P2", "nome": "Maria", "materias": ["Física"] }
+  ],
+  "aulas": [
+    { "id": "M1", "materia": "Matemática", "slot_inicio": 0, "slot_fim": 1, "qtd_alunos": 25 },
+    { "id": "F1", "materia": "Física",     "slot_inicio": 0, "slot_fim": 1, "qtd_alunos": 40 },
+    { "id": "M2", "materia": "Matemática", "slot_inicio": 1, "slot_fim": 2, "qtd_alunos": 30 }
+  ]
+}

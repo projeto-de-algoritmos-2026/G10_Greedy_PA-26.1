@@ -1,0 +1,18 @@
+{
+  "salas": [
+    { "id": "A", "capacidade": 40 },
+    { "id": "B", "capacidade": 40 },
+    { "id": "C", "capacidade": 60 }
+  ],
+  "professores": [
+    { "id": "P1", "nome": "João",   "materias": ["Matemática", "Física"] },
+    { "id": "P2", "nome": "Maria",  "materias": ["Física", "Química"] },
+    { "id": "P3", "nome": "Carlos", "materias": ["História", "Geografia"] }
+  ],
+  "aulas": [
+    { "id": "A1", "materia": "Matemática", "slot_inicio": 0, "slot_fim": 1, "qtd_alunos": 30 },
+    { "id": "A2", "materia": "Física",     "slot_inicio": 0, "slot_fim": 1, "qtd_alunos": 35 },
+    { "id": "A3", "materia": "História",   "slot_inicio": 1, "slot_fim": 2, "qtd_alunos": 50 },
+    { "id": "A4", "materia": "Química",    "slot_inicio": 2, "slot_fim": 3, "qtd_alunos": 20 }
+  ]
+}
