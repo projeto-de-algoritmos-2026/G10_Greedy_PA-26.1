@@ -34,6 +34,30 @@ A abordagem é heurística — pode não encontrar a solução globalmente ótim
 
 ## Screenshots
 
+#### Menu Principal 
+![Menu principal](img/menu.png)
+
+#### Cadastrar sala
+![Cadastrar sala](img/opcao1.png)
+
+#### Cadastrar professor
+![Cadastrar professor](img/opcao2.png)
+
+#### Cadastrar aula
+![Cadastrar aulal](img/opcao3.png)
+
+#### Listar cadastros
+![Listar cadastros](img/opcao4.png)
+
+#### Executar alocação
+![Executar alocação](img/opcao5.png)
+
+#### Resultado da Alocação
+![Resultado da Alocação](img/opcao6.png)
+
+#### Salvar / carregar cenário
+![Resultado da Alocação](img/opcao7.png)
+
 ---
 
 ## Instalação 
