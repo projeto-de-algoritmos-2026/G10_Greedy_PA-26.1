@@ -47,14 +47,13 @@ git clone https://github.com/projeto-de-algoritmos-2026/G10_Greedy_PA-26.1.git
 # Acesse o repositório
 cd G10_Greedy_PA-26.1
  
-# Execute
+# Execute o programa
 python3 main.py
 ```
 
 ---
 
-## Outros 
-
----
-
 ## Link do vídeo
+Para acessar a apresentação, clique no link abaixo:
+
+[Assistir ao vídeo](https://youtu.be/link)
