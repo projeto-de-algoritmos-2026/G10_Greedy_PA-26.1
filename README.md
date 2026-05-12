@@ -80,4 +80,4 @@ python3 main.py
 ## Link do vídeo
 Para acessar a apresentação, clique no link abaixo:
 
-[Assistir ao vídeo](https://youtu.be/link)
+[Assistir ao vídeo](https://youtu.be/L8CwQm24aZI)
